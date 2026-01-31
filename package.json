@@ -1,6 +1,7 @@
 {
   "name": "frontend",
-  "homepage": "https://mrdanish20.github.io/FiTusion",
+"homepage": "https://mrdanish20.github.io/FiTusion",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
